@@ -40,11 +40,27 @@
     "answer": 1
   },
   {
+    "question": "Who is the top  all time scorer in the Premier League for Chelsea?",
+    "choice1": "Frank Lampard",
+    "choice2": "Didier Drogba",
+    "choice3": "Eden Hazard",
+    "choice4": "Nicolas Anelka",
+    "answer": 1
+  },
+  {
     "question": "Which country has appeared at every World Cup Finals since the first in 1930?",
     "choice1": "Spain",
     "choice2": "Brazil",
     "choice3": "Argentina",
     "choice4": "Germany",
+    "answer": 2
+  },
+  {
+    "question": "Who is the only player from Israel to have scored a Premier League hat trick?",
+    "choice1": "Eyal Berkovich",
+    "choice2": " Yossi Benayoun",
+    "choice3": "Ronny Rosenthal",
+    "choice4": "Tomer Hemed",
     "answer": 2
   },
   {
@@ -93,7 +109,7 @@
     "choice2": "Leeds United",
     "choice3": "Sheffield F.C.",
     "choice4": "Crystal Palace",
-    "answer": 4
+    "answer": 3
   },
   {
     "question": "Which was the first team who won consecutively 2 world cups?",
@@ -101,6 +117,14 @@
     "choice2": "Germany",
     "choice3": "France",
     "choice4": "Italy",
+    "answer": 4
+  },
+  {
+    "question": "Who is the only player to win the Champions League with three different clubs?",
+    "choice1": "Deco ",
+    "choice2": "Samuel Eto’o",
+    "choice3": "Xabi Alonso",
+    "choice4": "Clarence Seedorf",
     "answer": 4
   },
   {
@@ -141,6 +165,14 @@
     "choice2": "5",
     "choice3": "6",
     "choice4": "7",
+    "answer": 3
+  },
+  {
+    "question": "Which player scored the fastest hat-trick in the Premier League?",
+    "choice1": "Pierre-Emerick Aubameyang",
+    "choice2": "Thierry Henry",
+    "choice3": "Sadio Mane",
+    "choice4": "Jamie Vardy",
     "answer": 3
   },
   {
