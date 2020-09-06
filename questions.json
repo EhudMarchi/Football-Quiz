@@ -1,0 +1,226 @@
+[
+  {
+    "question": "Which country has won the most World Cups?",
+    "choice1": "Brazil",
+    "choice2": "Spain",
+    "choice3": "France",
+    "choice4": "Germany",
+    "answer": 1
+  },
+  {
+    "question": "Which country has appeared at every World Cup Finals since the first in 1930?",
+    "choice1": "Spain",
+    "choice2": "Brazil",
+    "choice3": "Argentina",
+    "choice4": "Germany",
+    "answer": 2
+  },
+  {
+    "question": "Which club has won the most Champions League titles?",
+    "choice1": "AC Milan",
+    "choice2": "Bayern Munich",
+    "choice3": "Real Madrid ",
+    "choice4": "Liverpool",
+    "answer": 3
+  },
+  {
+    "question": "Which country won the first ever World Cup?",
+    "choice1": "England",
+    "choice2": "Germany",
+    "choice3": "Brazil",
+    "choice4": "Uruguay",
+    "answer": 4
+  },
+  {
+    "question": "I was the first Liverpool player to win the Ballon d'Or. I scored 40 goals for my country and have played in England and Spain.",
+    "choice1": "Steven Gerrard",
+    "choice2": "Michael Owen",
+    "choice3": "Steve McManaman",
+    "choice4": "Ian Callaghan",
+    "answer": 2
+  },
+  {
+    "question": "What year did the Premier League start?",
+    "choice1": "1990",
+    "choice2": "1986",
+    "choice3": "1992",
+    "choice4": "1975",
+    "answer": 3
+  },
+  {
+    "question": "“La Liga” is the name of which European country’s professional football association?",
+    "choice1": "France",
+    "choice2": "Portugal",
+    "choice3": "Italy",
+    "choice4": "Spain",
+    "answer": 4
+  },
+  {
+    "question": "Whose home ground is at Old Trafford?",
+    "choice1": "Newcastle United",
+    "choice2": "Leicester City",
+    "choice3": "Crystal Palace",
+    "choice4": "Manchester United",
+    "answer": 4
+  },
+  {
+    "question": "Who won the UEFA Champions League final in 2004?",
+    "choice1": "Internazionale Milan",
+    "choice2": "FC Porto",
+    "choice3": "Liverpool",
+    "choice4": "Bayern Munich",
+    "answer": 2
+  },
+  {
+    "question": "What is the home ground of Chelsea?",
+    "choice1": "Anfield",
+    "choice2": "Stamford Bridge",
+    "choice3": "The Dell",
+    "choice4": "Stadium of Light",
+    "answer": 2
+  },
+  {
+    "question": "When was the first time that a European nation defeated a South American nation in a World Cup final?",
+    "choice1": "1990",
+    "choice2": "1998",
+    "choice3": "1986",
+    "choice4": "2002",
+    "answer": 1
+  },
+  {
+    "question": "How many seconds did it take to score the quickest goal in World Cup history?",
+    "choice1": "11 seconds",
+    "choice2": "7 seconds",
+    "choice3": "19 seconds",
+    "choice4": "9 seconds",
+    "answer": 1
+  },
+  {
+    "question": "Which team scored the highest number of goals at the FIFA World Cup 2018?",
+    "choice1": "France",
+    "choice2": "Belgium",
+    "choice3": "England",
+    "choice4": "Croatia",
+    "answer": 2
+  },
+  {
+    "question": "With 202 clean sheets, which goalkeeper has the best record in the Premier League?",
+    "choice1": "Edwin van der Sar",
+    "choice2": "Petr Cech",
+    "choice3": "David de Gea",
+    "choice4": "Pepe Reina",
+    "answer": 2
+  },
+  {
+    "question": "Which MLS franchise team does David Beckham own?",
+    "choice1": "Inter Miami",
+    "choice2": "LA Galaxy",
+    "choice3": "Chicago Fire FC",
+    "choice4": "New York Red Bulls",
+    "answer": 1
+  },
+  {
+    "question": "In Spanish football, what is 'the Pichichi'?",
+    "choice1": "The award given to the player with the most assists",
+    "choice2": "The award given to the best goalkeeper",
+    "choice3": "The award given to the worst player of the game",
+    "choice4": "The award given to the top goalscorer",
+    "answer": 4
+  },
+  {
+    "question": "What year did Real Madrid sign Cristiano Ronaldo?",
+    "choice1": "2006",
+    "choice2": "2007",
+    "choice3": "2008",
+    "choice4": "2009",
+    "answer": 4
+  },
+  {
+    "question": "Who was the FIFA World Player of the Year in 2000?",
+    "choice1": "Steven Gerrard",
+    "choice2": "Didier Drogba",
+    "choice3": "Zinedine Zidane",
+    "choice4": "Ronaldinho",
+    "answer": 3
+  },
+  {
+    "question": "I played for six clubs that have won the Champions League, but never actually won the trophy himself:",
+    "choice1": "Gianluigi Buffon",
+    "choice2": "Zlatan Ibrahimovic",
+    "choice3": "Álvaro Morata",
+    "choice4": "Dani Alves",
+    "answer": 2
+  },
+  {
+    "question": "For how many different clubs did David Beckham wear the number 23?",
+    "choice1": "One",
+    "choice2": "Two",
+    "choice3": "Three",
+    "choice4": "Four",
+    "answer": 2
+  },
+  {
+    "question": "For which of his clubs did Pierre-Emerick Aubameyang wear number 7?",
+    "choice1": "AS Saint-Étienne",
+    "choice2": "Borussia Dortmund",
+    "choice3": "Lille OSC",
+    "choice4": "AS Monaco FC",
+    "answer": 1
+  },
+  {
+    "question": "Who was the youngest Manager to win the Premier League Title?",
+    "choice1": "Arsène Wenger",
+    "choice2": "José Mourinho",
+    "choice3": "Carlo Ancelotti",
+    "choice4": "Alex Ferguson",
+    "answer": 2
+  },
+  {
+    "question": "Francesco Totti played over 600 league appearances for which club?",
+    "choice1": "Roma",
+    "choice2": "Torino",
+    "choice3": "Fiorentina",
+    "choice4": "Parma",
+    "answer": 1
+  },
+  {
+    "question": "What year was the Bundesliga founded?",
+    "choice1": "1963",
+    "choice2": "1970",
+    "choice3": "1972",
+    "choice4": "1954",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of Juventus stadium?",
+    "choice1": "Allianz Staduim",
+    "choice2": "San Siro",
+    "choice3": "Stadio Olimpico",
+    "choice4": "Stadio San Nicola",
+    "answer": 1
+  },
+  {
+    "question": "Which team sings “You'll Never Walk alone?”",
+    "choice1": "Everton",
+    "choice2": "Arsenal",
+    "choice3": "Liverpool",
+    "choice4": "Manchester City FC",
+    "answer": 3
+  },
+  {
+    "question": "What is the animal on the Tottenham Hotspur logo?",
+    "choice1": "A swan",
+    "choice2": "An eagle",
+    "choice3": "A pigeon",
+    "choice4": "A chicken",
+    "answer": 4
+  },
+  {
+    "question": "Who is the Champions League's top goalscorer of all time?",
+    "choice1": "Raúl",
+    "choice2": "Lionel Messi",
+    "choice3": "Robert Lewandowski",
+    "choice4": "Cristiano Ronaldo",
+    "answer": 4
+  }
+]

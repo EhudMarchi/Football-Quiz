@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Bevan&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="game.css">
+  <link rel="stylesheet" href="style.css">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+  <title>Quiz - Play</title>
+</head>
+<body>
+  <audio id="bflat"> </audio>
+    <div class="container c-confetti page">
+      <div id="game" class="justify-center flex-column">
+        <div id="hud">
+          <div id="hud-item">
+            <p id="progressText" class="hud-prefix">
+              Question
+            </p>
+            <div id="progressBar">
+              <div id="progressBarFull"></div>
+            </div>
+          </div>
+          <div id="hud-item">
+            <p class="hud-prefix">
+              Score
+            </p>
+            <h2 class="hud-main-text" id="score">
+              0
+            </h2>
+          </div>
+        </div>
+      <em></em>
+      <label id="timer">-</label>
+        <h2 id="question">What is the answer to this questions?</h2>
+        <div class="choice-container" onclick="PlaySound()">
+          <p class="choice-prefix">A</p>
+          <p class="choice-text" data-number="1">Choice 1</p>
+        </div>
+        <div class="choice-container" onclick="PlaySound()">
+          <p class="choice-prefix">B</p>
+          <p class="choice-text" data-number="2">Choice 2</p>
+        </div>
+        <div class="choice-container" onclick="PlaySound()">
+          <p class="choice-prefix">C</p>
+          <p class="choice-text" data-number="3">Choice 3</p>
+        </div>
+        <div class="choice-container" onclick="PlaySound()">
+          <p class="choice-prefix">D</p>
+          <p class="choice-text" data-number="4">Choice 4</p>
+        </div>
+      </div>
+    </div>
+    <script src="game.js"></script>
+  </body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.js"></script>
+ <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+ <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</html>
