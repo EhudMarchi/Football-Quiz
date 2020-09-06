@@ -8,11 +8,59 @@
     "answer": 1
   },
   {
+    "question": "What was the fastest red card ever issued in a game?",
+    "choice1": "2 seconds",
+    "choice2": "4 seconds",
+    "choice3": "8 seconds",
+    "choice4": "16 seconds",
+    "answer": 1
+  },
+  {
+    "question": "How many goals did Brazilian soccer legend Pelé score in his league debut?",
+    "choice1": "4",
+    "choice2": "0",
+    "choice3": "2",
+    "choice4": "6",
+    "answer": 1
+  },
+  {
+    "question": "Who won the first ever FA Premier League?",
+    "choice1": "Manchester United",
+    "choice2": "Sheffield United",
+    "choice3": "Arsenal",
+    "choice4": "Newcastle United",
+    "answer": 1
+  },
+  {
+    "question": "Who was the first Real Madrid's manager?",
+    "choice1": "Arthur Johnson",
+    "choice2": "Juan de Cárcer",
+    "choice3": "Pedro Llorente",
+    "choice4": "Santiago Bernabéu Yeste",
+    "answer": 1
+  },
+  {
     "question": "Which country has appeared at every World Cup Finals since the first in 1930?",
     "choice1": "Spain",
     "choice2": "Brazil",
     "choice3": "Argentina",
     "choice4": "Germany",
+    "answer": 2
+  },
+  {
+    "question": "Which country's soccer team helped secure a truce to the nation's civil war in 2006?",
+    "choice1": "Congo",
+    "choice2": "Ivory Coast",
+    "choice3": "Somalia",
+    "choice4": "Libya",
+    "answer": 2
+  },
+  {
+    "question": "According to the official FIFA rulebook, how long can a goalkeeper hold onto the ball for?",
+    "choice1": "3 Seconds",
+    "choice2": "6 seconds",
+    "choice3": "30 seconds",
+    "choice4": "Until he feels like letting go",
     "answer": 2
   },
   {
@@ -24,12 +72,44 @@
     "answer": 3
   },
   {
+    "question": "David Beckham left Real Madrid to sign up with which football club?",
+    "choice1": "AC Milan",
+    "choice2": "Manchester United",
+    "choice3": "LA Galaxy ",
+    "choice4": "Paris Saint-Germain",
+    "answer": 3
+  },
+  {
     "question": "Which country won the first ever World Cup?",
     "choice1": "England",
     "choice2": "Germany",
     "choice3": "Brazil",
     "choice4": "Uruguay",
     "answer": 4
+  },
+  {
+    "question": "Which was the first football club to founded?",
+    "choice1": "Tottenham",
+    "choice2": "Leeds United",
+    "choice3": "Sheffield F.C.",
+    "choice4": "Crystal Palace",
+    "answer": 4
+  },
+  {
+    "question": "Which was the first team who won consecutively 2 world cups?",
+    "choice1": "England",
+    "choice2": "Germany",
+    "choice3": "France",
+    "choice4": "Italy",
+    "answer": 4
+  },
+  {
+    "question": "How many goals has Thierry Henry scored for Arsenal?",
+    "choice1": "196",
+    "choice2": "228",
+    "choice3": "241",
+    "choice4": "270",
+    "answer": 2
   },
   {
     "question": "I was the first Liverpool player to win the Ballon d'Or. I scored 40 goals for my country and have played in England and Spain.",
@@ -45,6 +125,22 @@
     "choice2": "1986",
     "choice3": "1992",
     "choice4": "1975",
+    "answer": 3
+  },
+  {
+    "question": "Which country won the first women's World Cup?",
+    "choice1": "Sweden",
+    "choice2": "Germany",
+    "choice3": "United States",
+    "choice4": "Norway",
+    "answer": 3
+  },
+  {
+    "question": "How many Ballon d’Or awards has Lionel Messi won?",
+    "choice1": "4",
+    "choice2": "5",
+    "choice3": "6",
+    "choice4": "7",
     "answer": 3
   },
   {
@@ -69,6 +165,14 @@
     "choice2": "FC Porto",
     "choice3": "Liverpool",
     "choice4": "Bayern Munich",
+    "answer": 2
+  },
+  {
+    "question": "Which team has spent the most seasons in Serie A? (88)",
+    "choice1": "Juventus",
+    "choice2": "Internazionale Milan",
+    "choice3": "U.C. Sampdoria",
+    "choice4": "Atalanta B.C.",
     "answer": 2
   },
   {
