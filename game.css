@@ -6,7 +6,7 @@
   font-size: 1.8rem;
   border: 0.1rem solid rgb(86, 165, 235, 0.25);
   background-color: white;
-  color: blak;
+  color: black;
 }
 
 .choice-container:hover {
@@ -40,7 +40,15 @@
   display: flex;
   justify-content: space-between;
 }
-
+#question {
+  font-size: 3.4rem;
+  text-shadow:
+      3px  3px 0 #000,
+     -1px -1px 0 #000,
+      1px -1px 0 #000,
+     -1px  1px 0 #000,
+      1px  1px 0 #000;
+}
 .hud-prefix {
   text-align: center;
   font-size: 2rem;
@@ -68,4 +76,10 @@
   font-size: 5em;
   color: white;
   text-align: center;
+  text-shadow:
+    3px  3px 0 #000,
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+   -1px  1px 0 #000,
+    1px  1px 0 #000;
 }
