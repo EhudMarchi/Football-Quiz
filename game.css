@@ -73,6 +73,8 @@
   width: 0%;
 }
 #timer {
+  margin-left: -14%;
+  margin-top: 2%;
   font-size: 5em;
   color: white;
   text-align: center;

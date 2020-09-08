@@ -1,6 +1,7 @@
 [
   {
     "question": "Which country has won the most World Cups?",
+    "image": "WorldCup.jpg",
     "choice1": "Brazil",
     "choice2": "Spain",
     "choice3": "France",
@@ -9,6 +10,7 @@
   },
   {
     "question": "What was the fastest red card ever issued in a game?",
+    "image": "RedCard.jpg",
     "choice1": "2 seconds",
     "choice2": "4 seconds",
     "choice3": "8 seconds",
@@ -17,6 +19,7 @@
   },
   {
     "question": "How many goals did Brazilian soccer legend Pelé score in his league debut?",
+    "image": "Pele.jpg",
     "choice1": "4",
     "choice2": "0",
     "choice3": "2",
@@ -25,6 +28,7 @@
   },
   {
     "question": "Who won the first ever FA Premier League?",
+    "image": "PL.jpg",
     "choice1": "Manchester United",
     "choice2": "Sheffield United",
     "choice3": "Arsenal",
@@ -33,6 +37,7 @@
   },
   {
     "question": "Who was the first Real Madrid's manager?",
+    "image": "RealMadrid.jpg",
     "choice1": "Arthur Johnson",
     "choice2": "Juan de Cárcer",
     "choice3": "Pedro Llorente",
@@ -41,6 +46,7 @@
   },
   {
     "question": "Who is the top  all time scorer in the Premier League for Chelsea?",
+    "image": "Chelsea.jpg",
     "choice1": "Frank Lampard",
     "choice2": "Didier Drogba",
     "choice3": "Eden Hazard",
@@ -49,6 +55,7 @@
   },
   {
     "question": "Which country has appeared at every World Cup Finals since the first in 1930?",
+    "image": "1930.jpg",
     "choice1": "Spain",
     "choice2": "Brazil",
     "choice3": "Argentina",
@@ -57,6 +64,7 @@
   },
   {
     "question": "Who is the only player from Israel to have scored a Premier League hat trick?",
+    "image": "IsraeliPL.jpg",
     "choice1": "Eyal Berkovich",
     "choice2": " Yossi Benayoun",
     "choice3": "Ronny Rosenthal",
@@ -65,6 +73,7 @@
   },
   {
     "question": "Which country's soccer team helped secure a truce to the nation's civil war in 2006?",
+    "image": "AfricaCW.jpg",
     "choice1": "Congo",
     "choice2": "Ivory Coast",
     "choice3": "Somalia",
@@ -73,6 +82,7 @@
   },
   {
     "question": "According to the official FIFA rulebook, how long can a goalkeeper hold onto the ball for?",
+    "image": "Hold.jpg",
     "choice1": "3 Seconds",
     "choice2": "6 seconds",
     "choice3": "30 seconds",
@@ -81,6 +91,7 @@
   },
   {
     "question": "Which club has won the most Champions League titles?",
+    "image": "CL.jpg",
     "choice1": "AC Milan",
     "choice2": "Bayern Munich",
     "choice3": "Real Madrid ",
@@ -89,6 +100,7 @@
   },
   {
     "question": "David Beckham left Real Madrid to sign up with which football club?",
+    "image": "DavidReal.jpg",
     "choice1": "AC Milan",
     "choice2": "Manchester United",
     "choice3": "LA Galaxy ",
@@ -97,6 +109,7 @@
   },
   {
     "question": "Which country won the first ever World Cup?",
+    "image": "First.jpg",
     "choice1": "England",
     "choice2": "Germany",
     "choice3": "Brazil",
@@ -105,6 +118,7 @@
   },
   {
     "question": "Which was the first football club to founded?",
+    "image": "FirstClub.jpg",
     "choice1": "Tottenham",
     "choice2": "Leeds United",
     "choice3": "Sheffield F.C.",
@@ -113,6 +127,7 @@
   },
   {
     "question": "Which was the first team who won consecutively 2 world cups?",
+    "image": "WorldCup.jpg",
     "choice1": "England",
     "choice2": "Germany",
     "choice3": "France",
@@ -121,6 +136,7 @@
   },
   {
     "question": "Who is the only player to win the Champions League with three different clubs?",
+    "image": "CLWinner.jpg",
     "choice1": "Deco ",
     "choice2": "Samuel Eto’o",
     "choice3": "Xabi Alonso",
@@ -129,6 +145,7 @@
   },
   {
     "question": "How many goals has Thierry Henry scored for Arsenal?",
+    "image": "Henry.jpg",
     "choice1": "196",
     "choice2": "228",
     "choice3": "241",
@@ -137,6 +154,7 @@
   },
   {
     "question": "I was the first Liverpool player to win the Ballon d'Or. I scored 40 goals for my country and have played in England and Spain.",
+    "image": "ballon.jpg",
     "choice1": "Steven Gerrard",
     "choice2": "Michael Owen",
     "choice3": "Steve McManaman",
@@ -145,6 +163,7 @@
   },
   {
     "question": "What year did the Premier League start?",
+    "image": "PL.jpg",
     "choice1": "1990",
     "choice2": "1986",
     "choice3": "1992",
@@ -153,6 +172,7 @@
   },
   {
     "question": "Which country won the first women's World Cup?",
+    "image": "Women.jpg",
     "choice1": "Sweden",
     "choice2": "Germany",
     "choice3": "United States",
@@ -161,6 +181,7 @@
   },
   {
     "question": "How many Ballon d’Or awards has Lionel Messi won?",
+    "image": "Messi.jpg",
     "choice1": "4",
     "choice2": "5",
     "choice3": "6",
@@ -169,6 +190,7 @@
   },
   {
     "question": "Which player scored the fastest hat-trick in the Premier League?",
+    "image": "HatTrick.jpg",
     "choice1": "Pierre-Emerick Aubameyang",
     "choice2": "Thierry Henry",
     "choice3": "Sadio Mane",
@@ -177,6 +199,7 @@
   },
   {
     "question": "“La Liga” is the name of which European country’s professional football association?",
+    "image": "LaLiga.jpg",
     "choice1": "France",
     "choice2": "Portugal",
     "choice3": "Italy",
@@ -185,6 +208,7 @@
   },
   {
     "question": "Whose home ground is at Old Trafford?",
+    "image": "OldTrafford.jpg",
     "choice1": "Newcastle United",
     "choice2": "Leicester City",
     "choice3": "Crystal Palace",
@@ -193,6 +217,7 @@
   },
   {
     "question": "Who won the UEFA Champions League final in 2004?",
+    "image": "2004.jpg",
     "choice1": "Internazionale Milan",
     "choice2": "FC Porto",
     "choice3": "Liverpool",
@@ -201,6 +226,7 @@
   },
   {
     "question": "Which team has spent the most seasons in Serie A? (88)",
+    "image": "SerieA.jpg",
     "choice1": "Juventus",
     "choice2": "Internazionale Milan",
     "choice3": "U.C. Sampdoria",
@@ -209,6 +235,7 @@
   },
   {
     "question": "What is the home ground of Chelsea?",
+    "image": "Stamford.jpg",
     "choice1": "Anfield",
     "choice2": "Stamford Bridge",
     "choice3": "The Dell",
@@ -217,6 +244,7 @@
   },
   {
     "question": "When was the first time that a European nation defeated a South American nation in a World Cup final?",
+    "image": "Final.jpg",
     "choice1": "1990",
     "choice2": "1998",
     "choice3": "1986",
@@ -225,6 +253,7 @@
   },
   {
     "question": "How many seconds did it take to score the quickest goal in World Cup history?",
+    "image": "Goal.jpg",
     "choice1": "11 seconds",
     "choice2": "7 seconds",
     "choice3": "19 seconds",
@@ -233,6 +262,7 @@
   },
   {
     "question": "Which team scored the highest number of goals at the FIFA World Cup 2018?",
+    "image": "2018.jpg",
     "choice1": "France",
     "choice2": "Belgium",
     "choice3": "England",
@@ -241,6 +271,7 @@
   },
   {
     "question": "With 202 clean sheets, which goalkeeper has the best record in the Premier League?",
+    "image": "GK.jpg",
     "choice1": "Edwin van der Sar",
     "choice2": "Petr Cech",
     "choice3": "David de Gea",
@@ -249,6 +280,7 @@
   },
   {
     "question": "Which MLS franchise team does David Beckham own?",
+    "image": "Beckham.jpg",
     "choice1": "Inter Miami",
     "choice2": "LA Galaxy",
     "choice3": "Chicago Fire FC",
@@ -257,6 +289,7 @@
   },
   {
     "question": "In Spanish football, what is 'the Pichichi'?",
+    "image": "Pichichi.jpg",
     "choice1": "The award given to the player with the most assists",
     "choice2": "The award given to the best goalkeeper",
     "choice3": "The award given to the worst player of the game",
@@ -265,6 +298,7 @@
   },
   {
     "question": "What year did Real Madrid sign Cristiano Ronaldo?",
+    "image": "CR7.jpg",
     "choice1": "2006",
     "choice2": "2007",
     "choice3": "2008",
@@ -273,6 +307,7 @@
   },
   {
     "question": "Who was the FIFA World Player of the Year in 2000?",
+    "image": "POTY.jpg",
     "choice1": "Steven Gerrard",
     "choice2": "Didier Drogba",
     "choice3": "Zinedine Zidane",
@@ -281,6 +316,7 @@
   },
   {
     "question": "I played for six clubs that have won the Champions League, but never actually won the trophy himself:",
+    "image": "CL.jpg",
     "choice1": "Gianluigi Buffon",
     "choice2": "Zlatan Ibrahimovic",
     "choice3": "Álvaro Morata",
@@ -289,6 +325,7 @@
   },
   {
     "question": "For how many different clubs did David Beckham wear the number 23?",
+    "image": "23.jpg",
     "choice1": "One",
     "choice2": "Two",
     "choice3": "Three",
@@ -297,6 +334,7 @@
   },
   {
     "question": "For which of his clubs did Pierre-Emerick Aubameyang wear number 7?",
+    "image": "Aubameyang.jpg",
     "choice1": "AS Saint-Étienne",
     "choice2": "Borussia Dortmund",
     "choice3": "Lille OSC",
@@ -305,6 +343,7 @@
   },
   {
     "question": "Who was the youngest Manager to win the Premier League Title?",
+    "image": "PLTITLE.jpg",
     "choice1": "Arsène Wenger",
     "choice2": "José Mourinho",
     "choice3": "Carlo Ancelotti",
@@ -313,6 +352,7 @@
   },
   {
     "question": "Francesco Totti played over 600 league appearances for which club?",
+    "image": "Totti.jpg",
     "choice1": "Roma",
     "choice2": "Torino",
     "choice3": "Fiorentina",
@@ -321,6 +361,7 @@
   },
   {
     "question": "What year was the Bundesliga founded?",
+    "image": "Bundesliga.jpg",
     "choice1": "1963",
     "choice2": "1970",
     "choice3": "1972",
@@ -329,6 +370,7 @@
   },
   {
     "question": "What is the name of Juventus stadium?",
+    "image": "JuveStadium.jpg",
     "choice1": "Allianz Staduim",
     "choice2": "San Siro",
     "choice3": "Stadio Olimpico",
@@ -337,6 +379,7 @@
   },
   {
     "question": "Which team sings “You'll Never Walk alone?”",
+    "image": "YWNWA.jpg",
     "choice1": "Everton",
     "choice2": "Arsenal",
     "choice3": "Liverpool",
@@ -345,6 +388,7 @@
   },
   {
     "question": "What is the animal on the Tottenham Hotspur logo?",
+    "image": "TH.jpg",
     "choice1": "A swan",
     "choice2": "An eagle",
     "choice3": "A pigeon",
@@ -353,6 +397,7 @@
   },
   {
     "question": "Who is the Champions League's top goalscorer of all time?",
+    "image": "CL.jpg",
     "choice1": "Raúl",
     "choice2": "Lionel Messi",
     "choice3": "Robert Lewandowski",

@@ -12,6 +12,9 @@
   <title>Quiz - Play</title>
 </head>
 <body>
+  <audio id="myaudio" autoplay="autoplay">
+     <source src="SwipeItOff.mp3" />
+ </audio>
   <audio id="bflat"> </audio>
     <div class="container c-confetti page">
       <div id="game" class="justify-center flex-column">
@@ -24,6 +27,7 @@
               <div id="progressBarFull"></div>
             </div>
           </div>
+          <label id="timer">-</label>
           <div id="hud-item">
             <p class="hud-prefix">
               Score
@@ -34,8 +38,8 @@
           </div>
         </div>
       <em></em>
-      <label id="timer">-</label>
         <h2 id="question">What is the answer to this questions?</h2>
+        <div id="image-holder"></div>
         <div class="choice-container" onclick="PlaySound()">
           <p class="choice-prefix">A</p>
           <p class="choice-text" data-number="1">Choice 1</p>

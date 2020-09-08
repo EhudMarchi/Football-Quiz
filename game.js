@@ -1,4 +1,5 @@
 const question = document.getElementById('question');
+const image = document.getElementById('image');
 const choices = Array.from(document.getElementsByClassName('choice-text'));
 const progressText = document.getElementById('progressText');
 const scoreText = document.getElementById('score');
@@ -12,6 +13,8 @@ let availableQuesions = [];
 let questions = [];
 var bflat = new Audio();
 bflat.src = "ButtonSFX.mp3";
+var audio = document.getElementById("myaudio");
+  audio.volume = 0.2;
 function PlaySound() {
     bflat.play();
 }
@@ -29,7 +32,7 @@ fetch('questions.json')
 
 //CONSTANTS
 var CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 15;
+const MAX_QUESTIONS = 20;
 var secondsLabel = document.getElementById("timer");
 var totalSeconds = 30;
         setInterval(setTime, 1000);
@@ -75,7 +78,11 @@ totalSeconds=30;
     const questionIndex = Math.floor(Math.random() * availableQuesions.length);
     currentQuestion = availableQuesions[questionIndex];
     question.innerText = currentQuestion.question;
-
+    /*------------------*/
+    var img = document.createElement('img');
+    img.src = currentQuestion.image;  // The image source from JSON
+    document.getElementById( 'image-holder' ).innerHTML = '<img src="'+img.src+'">';
+      /*------------------*/
     choices.forEach((choice) => {
         const number = choice.dataset['number'];
         choice.innerText = currentQuestion['choice' + number];
